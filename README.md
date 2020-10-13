@@ -1,3 +1,3 @@
-# hellow-world
+# hello-world
 just another repository
-hellow this is my first time on Github
+hello this is my first time on Github
